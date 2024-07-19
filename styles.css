@@ -1,0 +1,159 @@
+body{
+background-color: #7cde20e7;
+/* Copied from Google Fonts */
+font-family: "Playwrite HU", cursive;
+overflow-x: hidden;
+margin: 0px;
+}
+/* About me */
+h1.full-name{
+    text-align: center;
+}
+
+img.Varun-Photo{
+    width: 200px;
+    position: absolute;
+    left: 631px;
+    top: 104px;
+    padding: 8px;
+    border: 10px dashed #e19244;
+}
+
+p.biography{
+    position: relative;
+    width: 600px;
+    top: 299px;
+    left: 454px
+}
+hr{
+    width: 100px;
+    margin-top: 350px;
+    border: 5px dashed #fffb00e7;
+}
+/* Skills */
+div.skills-container{
+    width: 1449px;
+    height: 500px;
+}
+h1.skills{
+    text-align: center;
+    position: relative;
+    top: 16px;
+    left: 15px;
+}
+h2.HTML{
+float: right;
+position: relative;
+right: 658px;
+}
+img.html-sticker{
+width: 300px;
+position: relative;
+left: 164px;
+}
+p.HTML-paragraph{
+    float: right;
+    position: relative;
+    top: 76px;
+    right: 242px;
+    bottom: 224px;
+    width: 662px;
+}
+h2.CSS{
+width: 59px;
+position: relative;
+left: 540px;
+}
+p.CSS-paragraph{
+    width: 662px;
+    position: relative;
+    left: 265px;
+}
+img.CSS-sticker{
+    width: 300px;
+    position: relative;
+    bottom: 193px;
+    right: 263px;
+    float: right;
+}
+h2.Microsoft-Office{
+    width: 217px;
+    position: relative;
+    top: 130px;
+    left: 649px;
+}
+img.Microsoft-Office-image{
+    width: 250px;
+    position: relative;
+    top: 74px;
+    left: 200px;
+}
+p.MS-Office-paragraph{
+    float: right;
+    width: 662px;
+    position: relative;
+    top: 146px;
+}
+div.hobbies-and-interests-container{
+width: 1449px;
+height: 1137px;
+}
+h1.Hobbies-and-Interests{
+width: 374px;
+text-align: center;
+position: relative;
+top: 204px;
+left: 564px;
+}
+h2.Badminton{
+    float: right;
+    position: relative;
+    top: 294px;
+    right: 674px;
+    font-size: 28pt;
+}
+img.badminton-gif{
+    width: 300px;
+    position: relative;
+    top: 119px;
+    left: 194px
+}
+img.baking-collage{
+width: 400px;
+position: relative;
+top: 590px;
+right: 181px;
+}
+h2.baking{
+    float: right;
+    position: relative;
+    top: 705px;
+    right: 510px;
+    font-size: 28pt;
+}
+div.footer-container{
+    width: 1477px;
+    height: 245px;
+    text-align: center;
+    font-size: x-large;
+    background-color: burlywood;
+}
+footer{
+    padding-top: 35px;
+    position: relative;
+    left: 53px;
+}
+button.call-me{
+    padding: 20px;
+    position: relative;
+    top: 114px;
+    right: 545px;
+    font-family: "Playwrite Hu", cursive;
+    font-size: large;
+    color: bisque;
+    background-color:rgb(25, 117, 230);
+}
+a{
+    text-decoration: none;
+    color: whitesmoke;
+}
